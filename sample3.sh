@@ -1,2 +1,2 @@
 echo "SAMPLE\n"
-echo "This sample job2\n"
+echo "This sample job3\n"
