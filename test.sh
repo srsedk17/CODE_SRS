@@ -1,1 +1,2 @@
 hostname
+uname -r 
